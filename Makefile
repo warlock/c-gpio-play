@@ -7,4 +7,4 @@ game:
 	@echo "End build"
 clean:
 	@echo "Clean project"
-	@rm -f game
+	@rm -f *.o game
